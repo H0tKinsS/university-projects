@@ -18,11 +18,15 @@ This is a quiz program written in C++ that allows users to take a quiz and edit 
 2. Open the terminal and navigate to the directory where the files are located
 3. Compile the program by running the following command:
 
-```g++ -o quiz main.cpp```
+```
+g++ -o quiz main.cpp
+```
 
 4. Run the program:
 
-```./quiz```
+```
+./quiz
+```
 
 5. Follow the on-screen instructions to pick a username and start the quiz
 
